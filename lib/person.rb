@@ -9,5 +9,5 @@ class Person
       self.send(("#{key}="), value)
     end
   end
-  
+
 end
